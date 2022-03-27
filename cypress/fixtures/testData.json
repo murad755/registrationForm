@@ -1,0 +1,44 @@
+{
+  "name": "Murad",
+  "surname": "Qaniyev",
+  "gender": "Male",
+  "phoneNumber": "0554232595",
+  "email": "murad.qaniyev@gmail.com",
+  "subject": "Computer Science",
+  "hobbies": ["Sports", "Music"],
+  "address": "Azerbaijan, Baku, Yasamal region, Sh.Mehdiyev street",
+  "state": "Haryana",
+  "city": "Panipat",
+  "birthday": {
+    "day": "012",
+    "month": "November",
+    "year": "1996",
+    "submitBirthday": "12 November,1996"
+  },
+  "submitLabels": [
+    "Label",
+    "Student Name",
+    "Student Email",
+    "Gender",
+    "Mobile",
+    "Date of Birth",
+    "Subjects",
+    "Hobbies",
+    "Picture",
+    "Address",
+    "State and City"
+  ],
+  "submitValues": [
+    "Values",
+    "Murad Qaniyev",
+    "murad.qaniyev@gmail.com",
+    "Male",
+    "0554232595",
+    "12 November,1996",
+    "Computer Science",
+    "Sports, Music",
+    "murad.png",
+    "Azerbaijan, Baku, Yasamal region, Sh.Mehdiyev street",
+    "Haryana Panipat"
+  ]
+}

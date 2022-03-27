@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://demoqa.com/automation-practice-form",
+  "defaultCommandTimeout": 30000,
+  "requestTimeout": 30000,
+  "pageLoadTimeout": 30000,
+  "responseTimeout": 30000,
+  "numTestsKeptInMemory": 5,
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false,
+  "viewportWidth": 1440,
+  "viewportHeight": 1000,
+  "video": false,
+  "testFiles": "./form/**"
+}
