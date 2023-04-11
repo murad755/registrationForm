@@ -1,4 +1,4 @@
-# registrationFormTask
+# registrationForm
 
 ## Assuming you have installed:
 - [Node](https://nodejs.org/en/download/) above 8.x.x
